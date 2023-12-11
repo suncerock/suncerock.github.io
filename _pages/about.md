@@ -6,7 +6,7 @@ subtitle: Master's Student at Georgia Institute of Technology
 
 profile:
   align: right
-  image: 2106-prof-pic.jpg
+  image: 2106-prof-pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Atlanta, GA 30309 </p>
