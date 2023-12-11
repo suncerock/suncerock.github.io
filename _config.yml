@@ -222,6 +222,7 @@ plugins:
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
+  - jekyll-multiple-languages-plugin
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
@@ -238,6 +239,10 @@ defaults:
 
 sass:
   style: compressed
+
+# multi language settings
+languages: ["en", "zh"]
+default_locale_in_subfolder: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
