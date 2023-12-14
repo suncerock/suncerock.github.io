@@ -10,6 +10,8 @@ titles:
   submenus: 其他
   unk: 页面不存在
   people: 人物
+publications:
+  description: 发表文章只支持英文显示。按出版时间排列。由jekyll-scholar自动生成。
 projects:
   titles:
     project1: 项目 1
