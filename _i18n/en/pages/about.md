@@ -2,7 +2,7 @@ Hi there!
 
 I am Yiwei Ding. I'm a master's student at Georgia Institute Technology. My major is Music Technology, and I am doing research in the [Music Informatics Group](https://musicinformatics.gatech.edu/), led by [Prof. Alexander Lerch](https://www.alexanderlerch.com/).
 
-My research includes music information retrieval tasks, representation learning for audio and music, music source separation. Basically, I like all tasks that teaches the computer to listen or to process audio and music.  (NOTE: I HATE MUSIC GENERATION!!!) In addition, I am interested in machine learning theory and artificial intelligence.
+My research includes music information retrieval tasks, representation learning for audio and music, music source separation. Basically, I like all tasks that teaches the computer to listen or to process audio and music. In addition, I am interested in machine learning theory and artificial intelligence.
 
 Before joining Georgia Tech, I completed my bachelor's degree at Fudan University in Shanghai, majoring in Data Science and Big Data Technology.
 
