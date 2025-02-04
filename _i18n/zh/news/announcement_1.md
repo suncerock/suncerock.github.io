@@ -1,1 +1,1 @@
-新的paper被ICASSP 2024的Satellite Workshop接收!
+新的paper被ECIR 2025接收!

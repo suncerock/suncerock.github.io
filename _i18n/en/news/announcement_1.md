@@ -1,1 +1,1 @@
-A new paper accepted to the satellite workshop of ICASSP 2024!
+A new paper accepted to ECIR 2025!
