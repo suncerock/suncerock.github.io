@@ -1,1 +1,1 @@
-A new paper accepted to ECIR 2025!
+With a TELC A2 cetificate, I now officially speak (a little bit of) German.

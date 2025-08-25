@@ -1,1 +1,1 @@
-新的paper被EUSIPCO 2024接收!
+两篇新的paper被ISMIR 2025接收!

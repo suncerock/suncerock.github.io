@@ -1,1 +1,1 @@
-A new paper accepted to EUSIPCO 2024!
+Two papers to appear at ISMIR 2025!
