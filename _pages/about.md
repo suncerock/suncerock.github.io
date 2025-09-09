@@ -2,7 +2,7 @@
 layout: about
 title: titles.about
 permalink: /
-subtitle: Master's Student at Georgia Institute of Technology
+subtitle: PhD Student at University of Würzburg
 
 profile:
   align: right
