@@ -1,1 +1,1 @@
-Two papers to appear at ISMIR 2025!
+With a TELC B1 cetificate, I now officially speak (a little bit of) German.

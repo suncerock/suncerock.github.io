@@ -1,1 +1,1 @@
-A new paper accepted to ECIR 2025!
+Two papers to appear at ISMIR 2025!

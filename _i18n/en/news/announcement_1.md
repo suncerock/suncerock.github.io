@@ -1,1 +1,1 @@
-With a TELC A2 cetificate, I now officially speak (a little bit of) German.
+One paper to appear at ISMIR 2026!
